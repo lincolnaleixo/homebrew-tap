@@ -5,7 +5,7 @@ cask "zipfling" do
   url "https://github.com/lincolnaleixo/zipfling-dist/releases/download/v#{version}/ZipFling-v#{version}.zip"
   name "ZipFling"
   desc "Menu bar app for uploading files to S3-compatible storage"
-  homepage "https://github.com/lincolnaleixo/zipfling"
+  homepage "https://zipfiling.bealsa.com"
 
   depends_on macos: ">= :sonoma"
 
