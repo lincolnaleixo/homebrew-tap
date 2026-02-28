@@ -1,6 +1,6 @@
 cask "zipfling" do
-  version "1.0.11"
-  sha256 "ccf7b766cfbb54c99b9d8c276031cde55775da84ecfd38de380aedb66804e8c2"
+  version "1.0.12"
+  sha256 "24b8e060d9ceef5d182dbfe870c6f9e700f7550ad225aed99dfc9d463d151c5a"
 
   url "https://github.com/lincolnaleixo/zipfling-dist/releases/download/v#{version}/ZipFling-v#{version}.zip"
   name "ZipFling"
